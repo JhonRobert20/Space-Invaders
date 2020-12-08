@@ -1,4 +1,4 @@
-# Cofi Code Challenge, Jhon Robert
+# Space Invaders, Jhon Robert
 
 # Instalación
 
